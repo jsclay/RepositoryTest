@@ -8,7 +8,6 @@ public class Print {
 	{
 		Add adder = new Add();
 		System.out.println(adder.addNumbers(3, 8));
-		System.out.println("yoooo, this is new dude!");
 	}
 
 }
